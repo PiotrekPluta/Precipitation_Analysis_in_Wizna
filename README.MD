@@ -5,3 +5,5 @@ The aim of this project is to optimise ARIMA model to predict precipitation (met
 ## Source of the data: Polish Institute of Meteorology and Water Management - National Research Institute
 
 
+### Map 1. Wizna location
+<img src="wizna.png" alt="Wizna">
