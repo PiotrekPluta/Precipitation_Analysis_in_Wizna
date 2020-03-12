@@ -6,4 +6,4 @@ The aim of this project is to optimise ARIMA model to predict precipitation (met
 
 
 ### Map 1. Wizna location
-<img src="wizna.png" alt="Wizna">
+<img src="Wizna.png" alt="Wizna">
