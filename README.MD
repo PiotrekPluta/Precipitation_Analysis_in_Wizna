@@ -8,4 +8,6 @@ Precipitation, which is a subjest of this analysis, is a sum of monthly rain fal
 
 
 ### Map 1. Wizna location
+
 <img src="Wizna.png" alt="Wizna">
+
